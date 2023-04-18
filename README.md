@@ -70,5 +70,9 @@ We definitely need to offer more customisation (data paths/hyperparameters/etc.)
 
 --------
 
+### IMPORTANT NOTE: Unfortunately, we did not have enough resources to run this program on our notebook. That's why what you see is actually taken from the notebook (in the `notebooks/` folder), which was run on Google Colab. We did run a lightened version of it on local machine, though. Everything should work fine. Contact us if something goes wrong.
+
+--------
+
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
